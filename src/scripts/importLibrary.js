@@ -1,0 +1,8 @@
+import '../../static/app-assets/vendors/js/core/jquery-3.2.1.min.js'
+import '../../static/app-assets/vendors/js/core/popper.min.js'
+import '../../static/app-assets/vendors/js/core/bootstrap.min.js'
+import '../../static/app-assets/vendors/js/perfect-scrollbar.jquery.min.js'
+import '../../static/app-assets/vendors/js/prism.min.js'
+import '../../static/app-assets/vendors/js/jquery.matchHeight-min.js'
+import '../../static/app-assets/vendors/js/screenfull.min.js'
+import '../../static/app-assets/vendors/js/pace/pace.min.js'

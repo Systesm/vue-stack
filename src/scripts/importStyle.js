@@ -1,0 +1,6 @@
+import '../../static/app-assets/fonts/feather/style.min.css'
+import '../../static/app-assets/fonts/simple-line-icons/style.css'
+import '../../static/app-assets/vendors/css/perfect-scrollbar.min.css'
+import '../../static/app-assets/vendors/css/prism.min.css'
+import '../../static/app-assets/vendors/css/chartist.min.css'
+import '../../static/app-assets/css/app.css'
